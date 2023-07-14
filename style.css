@@ -1,0 +1,37 @@
+.reye{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border: 3px solid black ;
+    border-radius: 100px;
+    top: 285px;
+    left: 183px;
+    position: absolute;
+
+}
+.ball{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border: 2px;
+    border-radius: 100px;
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+body{
+    position: fixed;
+    left: 500px;
+    
+}
+.leye{
+    height: 52px;
+    width: 52px;
+    background-color: white;
+    border: 3px solid black ;
+    border-radius: 100px;
+    top: 301px;
+    right: 223px;
+    position: absolute;
+
+}
